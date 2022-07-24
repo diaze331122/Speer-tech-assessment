@@ -1,5 +1,11 @@
 # Speer-tech-assessment
-A simple backend api for authenticating users and sending email
+A simple nodejs api for creating and authenticating users. 
+
+It will (for the purposes of this assessment): 
+
+- Allow users to create a new user using a unique email and password.
+- Send users a confirmation email with a verification link.
+- Allow users to delete their user.
 
 To get started, you will need to have a running mysql db and an email service.
 
